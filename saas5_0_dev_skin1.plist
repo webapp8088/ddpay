@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ddpayWallet.company.DDPay</string>
+                <string>com.devskin1.com</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ddpay</string>
+                <string>dev_skin1</string>
             </dict>
         </dict>
     </array>
