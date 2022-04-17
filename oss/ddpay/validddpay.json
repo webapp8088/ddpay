@@ -7,7 +7,7 @@
     ],
     "currentVersion" : {
         "ios" : "1.2.2",
-        "android" : "1.2.2"
+        "android" : "1.2.2.1"
     },
     "lowestVersion" : {
         "ios" : "1.0.0",
